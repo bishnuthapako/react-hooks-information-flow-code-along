@@ -8,3 +8,7 @@ export function getRandomColor() {
   }
   return color;
 }
+
+const resColor = getRandomColor()
+
+console.log(resColor)
